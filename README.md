@@ -1,6 +1,6 @@
 # MovieIST React
 
-### [Live Site (Cloudflare)](https://movieist-react.pages.dev/)
+### [Live Site (Vercel)](https://movieist-react.vercel.app/)
 
 ## Dependencies
 * [**_Axios_**](https://www.npmjs.com/package/axios)
